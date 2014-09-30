@@ -1,0 +1,88 @@
+###Digital Representation
+Handbook 2014/15
+
+	Contents
+
+1. Introduction & Background
+2. Timetable
+3. Tools
+4. Data Sources
+5. Reading List
+6. Surgery Hours
+7. Anything else
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hadi Mehrpouya - H+dot+Mehrpouya+at+ed.ac.uk 
+Chris Barker – chris+dot+bark3r+at+gmail+dot+com
+Introduction & Background
+Introduction
+This short document is primarily written to be an early guide into becoming a thoughtful and effective communicator of data.
+Try not to use this information as the be-all-and-end-all. Thanks to the open-source community and the Internet there are more and more accessible ways to express yourself and to find data sources. If in doubt just Google whatever you're trying to do or find.
+Data Visualisation
+A way for us to make data easier to interpret for humans. We tap into the inherent human skill for recognising patterns and changes. If we visualise the data nicely we can contextualise it. A spike on a graph or a change in colour now means something useful. It becomes information. Machine Learning is almost the opposite, helping computers to make sense of data rather than simply performing calculations for us.
+		Trees use data and produce data! Think about how...
+Visualisation is a common way to make sense of data-rich concepts but it is not the only way. Some people process visual information much better than others. We can harness any of our senses to convey a message that was previously hidden in the data. Data could usefully be turned into any form that our senses can perceive. Data represented as sound saturates virtually every place you go in the day. The whistle of the kettle or someone getting your attention by saying your name are both good examples. 
+Data might also: smell, taste or be felt.
+
+Timetable
+Tue 9th – Introduction to the induction project and play with example pieces
+Wed 10th – Lab session all day. Make a start on your artwork.
+Thurs 11th – Continue to work on your idea.
+Fri 12th – Finish up and present your work. If you wish we can upload to the Design Informatics website too!
+
+Later in the first semester there will be two weeks of Arno Verhoeven's module dedicated to using the skills from the induction week and this document. More details will be available at the time. This section will be lead by Hadi and Chris.
+
+Tools List
+Processing.org
+Processing is an open-source[1] tool primarily for visualisation, created in 2001 by an Italian gentleman. The software comes loaded with great graphics functionality which would normally have to be programmed manually. This makes it ideal for artists and designers that do not necessarily have a background in coding. 
+	http://www.openprocessing.org/
+	A website for people to share their processing sketches so you can grab some inspiration and 	possibly solve your coding problems by checking here.
+If This Then That (https://ifttt.com/)
+A neat tool for connecting various data feeds with an action. For example: if the temperature is over 20 Celsius then Tweet “Phew, going to be a hot day today”. 
+All of this is automatic so you can effectively create little bots or machines that react to data on your behalf.
+Data-Driven Documents (http://d3js.org/)
+A really neat Javascript library to make simple or complex graphics to be viewed in web browsers. They have a number of examples but this isn't as easy or well-supported as Processing.
+Physical visualisation
+We've got a lot of materials around the lab for you to represent data with. Make clay models, cardboard props or intricate webs of string.
+ 
+Data Sources
+In the last few years we have seen companies and organisations embrace the idea of opening up their data to the public. This will all be digital. If you have more than a few days to do your work then consider whether you could capture data yourself. This might improve the relevance of the data and could certainly make it LIVE which is often nice. There is nothing wrong with analog capture of data by talking to people, doing drawings or taking notes.
+List of high-quality digital data sources:
+Guardian DataBlog – [LINK]: All the datasets used by the Guardian's data writers in CSV format and usually with an excel spreadsheet too.
+Met Office DataPoint – [LINK]: Climate and near-live weather data including still radar images. Requires an account but no payment.
+Edinburgh Council – [LINK]: All sorts of nuggets from hotel locations to public bins
+visual.ly – [LINK]: List of sources but we've not necessarily had experience using them
+
+
+Things to spend your project budget on. These are deliberately a bit weird and therefore make for less boring projects:
+https://pinocc.io/ Some of these would be nice to make outdoor sensor networks. Don't forget to see whether Arduino boards (ask Mark Kobine) are already bought for this.
+http://www.choosemuse.com/ Remote brainwave tracking
+http://ardupilot.com/ Add an autopilot to just about any powered vehicle. A bit expensive and very technical but awesome nonetheless.
+
+Try to get up-to-date data unless you absolutely need to look backwards to see patterns. This is more important for fast-moving sectors or topics.
+Reading List (optional)
+Useful terms to look up:
+Sonification – visualisation but with sound
+Haptics – feedback through touch
+Smellification  - A FAKE WORD
+
+
+http://www.interaction-design.org/encyclopedia/data_visualization_for_human_perception.html
+
+Surgery Hours
+Although any of the Design Informatics staff will try their best to help with your work here, some people are a better bet to go to in the first instance as they're less busy.
+Hadi (curly haired Iranian guy), Mark Kobine (short hair, glasses, Scottish) and Chris Barker (probably working on the big iMac) will probably be the main people to talk to if your course leader or tutor are unavailable.
+In the case of Hadi and Chris, main surgery hours are on Wednesdays. It is best to send email (address on front cover) on any other day as we're likely to be working on our main research projects. If we spend too much time helping you guys and ignoring those we'll be fired – not so fun.
+
+Anything else
